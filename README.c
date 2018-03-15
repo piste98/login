@@ -1086,4 +1086,3 @@ if ( $switched_locale ) {
 
 break;
 } // end action switch
-
